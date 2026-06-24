@@ -88,3 +88,11 @@ npm test
 ## Assumptions
 
 - Authentication is out of scope for the contacts list page.
+
+## AI Usage
+
+I used Codex as an AI-assisted pair programming to speed up development and support the TDD workflow. In particular, I used AI to help draft initial test cases, explore implementation options, and review parts of the frontend, API, Docker, and Prisma setup.
+
+All generated suggestions were reviewed and modified by me before being included. I made the final implementation decisions, adjusted the code to fit the project requirements, and verified the behavior through tests and manual review.
+
+I can walk through the codebase, explain the design decisions, and discuss the trade-offs made in the solution.
